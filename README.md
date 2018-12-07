@@ -1,5 +1,7 @@
 # Orchestration using Docker Compose
 
+![On Demand](https://github.com/Rohmatul1/tct-docker-2/blob/master/102.png)
+
 * Step 1 - Defining First Container
 
 Langkah pertama yang dilakukan adalah mengidentifikasi container dengan mencopy web build seperti gambar dibawah ini.
@@ -76,6 +78,6 @@ Langkah keenam yaitu melakukan penghentian pada docker
 
 ![On Demand](https://github.com/Rohmatul1/tct-docker-2/blob/master/19.png)
 
-*docker-compose rm
+*Perintah docker-compose rm
 
 ![On Demand](https://github.com/Rohmatul1/tct-docker-2/blob/master/20.png)

@@ -5,10 +5,13 @@
 * Step 1 - Defining First Container
 
 Langkah pertama yang dilakukan adalah mengidentifikasi container dengan mencopy web build seperti gambar dibawah ini.
+
 ![On Demand](https://github.com/Rohmatul1/tct-docker-2/blob/master/1.png)
+
 * Step 2 - Defining Settings
 
 Langkah kedua yaitu mengidentifikasi setting dengan cara mencopy links dan port
+
 ![On Demand](https://github.com/Rohmatul1/tct-docker-2/blob/master/2.png)
 
 ![On Demand](https://github.com/Rohmatul1/tct-docker-2/blob/master/3.png)
